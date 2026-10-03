@@ -1,10 +1,6 @@
 # XMind Application – Professional Mind Mapping Software
 
-<p align="left">
-  <a href="https://schabeldannie.github.io/.github/xmind-application">
-    <img src="https://img.shields.io/badge/⬇️_Get_XMind_Application-blue?style=for-the-badge&logo=github" alt="Get XMind Application"/>
-  </a>
-</p>  
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://rosykilbourn820.github.io/.github/XMind-Application)
 
 ---
 
